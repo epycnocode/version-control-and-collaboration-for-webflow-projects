@@ -36,12 +36,5 @@ git push origin main
 4. Push your changes to the relevant branch in your Git repository.
 5. Use merge requests to propose changes and collaborate on the main project.
 ```
-**Remember:**
-
-  - Choose a version control and collaboration workflow that suits your team size and project complexity.
-  - Communicate effectively and document changes within your codebase for seamless collaboration.
-  - Leverage Webflow's built-in features and external tools to streamline your workflow.
-
-
 # Need Help?
 Want to build a [custom webflow page](https://epyc.in/)?
